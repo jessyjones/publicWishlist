@@ -2,21 +2,18 @@
 {"dg-publish":true,"permalink":"/Wishlist homepage/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-This links to [[Items/3.6V Electric Screwdriver Kit\|3.6V Electric Screwdriver Kit]]
 
 
 ```base
 views:
   - type: cards
-    name: View
+    name: Gallery view
     order:
       - file.name
       - Price
       - Notes
-    sort:
-      - property: file.ctime
-        direction: DESC
-    image: note.image
-    imageFit: contain
+    sort: []
+    image: note.Image
+    cardSize: 350
 
 ```
