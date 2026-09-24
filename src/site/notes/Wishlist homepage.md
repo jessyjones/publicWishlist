@@ -3,15 +3,18 @@
 ---
 
 
-
 ```base
 views:
   - type: cards
     name: Gallery view
+    filters:
+      and:
+        - "!URL.isEmpty()"
     order:
       - file.name
       - Price
       - Notes
+      - tags
     sort: []
     image: note.Image
     cardSize: 220
