@@ -14,6 +14,6 @@ views:
       - Notes
     sort: []
     image: note.Image
-    cardSize: 350
+    cardSize: 220
 
 ```
