@@ -15,5 +15,6 @@ views:
     sort: []
     image: note.Image
     cardSize: 220
+    imageFit: contain
 
 ```
