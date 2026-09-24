@@ -15,7 +15,9 @@ views:
       - Price
       - Notes
       - tags
-    sort: []
+    sort:
+      - property: Price
+        direction: DESC
     image: note.Image
     cardSize: 220
     imageFit: contain

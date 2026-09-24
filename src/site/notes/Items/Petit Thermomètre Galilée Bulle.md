@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Items/Petit Thermomètre Galilée Bulle/","title":"Petit Thermomètre Galilée Bulle","tags":["Home","Curiosity"],"dg-note-properties":{"categories":["[[Products]]"],"created":"2026-09-24","description":"🌡️ Précision scientifique inspirée de Galilée : Mesure fiable basée sur la densité des liquides.","URL":"https://www.objet-scientifique.fr/produit/petit-thermometre-galilee-bulle/","title":"Petit Thermomètre Galilée Bulle","Image":"https://www.objet-scientifique.fr/wp-content/uploads/2024/12/Petit-Thermometre-Galilee-Bulle.webp","Price":34.9,"currency":"EUR","Notes":null,"tags":["Home","Curiosity"]}}
+{"dg-publish":true,"permalink":"/Items/Petit Thermomètre Galilée Bulle/","title":"Petit Thermomètre Galilée Bulle","tags":["SelfCentered","BrainFood"],"dg-note-properties":{"categories":["[[Products]]"],"created":"2026-09-24","description":"🌡️ Précision scientifique inspirée de Galilée : Mesure fiable basée sur la densité des liquides.","URL":"https://www.objet-scientifique.fr/produit/petit-thermometre-galilee-bulle/","title":"Petit Thermomètre Galilée Bulle","Image":"https://www.objet-scientifique.fr/wp-content/uploads/2024/12/Petit-Thermometre-Galilee-Bulle.webp","Price":34.9,"currency":"EUR","Notes":null,"tags":["SelfCentered","BrainFood"]}}
 ---
 
 ## Petit Thermomètre Galilée Bulle

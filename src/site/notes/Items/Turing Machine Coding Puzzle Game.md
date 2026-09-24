@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Items/Turing Machine Coding Puzzle Game/","title":"Turing Machine Coding Puzzle Game","tags":["Curiosity"],"dg-note-properties":{"categories":["[[Products]]"],"created":"2026-09-24","description":"Race against the clock or other players as you crack millions of codes using an analog computer made up entirely of cardboard and paper.","URL":"https://www.uncommongoods.com/product/turing-machine-coding-puzzle-game","title":"Turing Machine Coding Puzzle Game","Image":"https://images.uncommongoods.com/images/items/59600/59696_1_1200px.jpg","Price":43,"currency":"USD","Notes":null,"tags":["Curiosity"]}}
+{"dg-publish":true,"permalink":"/Items/Turing Machine Coding Puzzle Game/","title":"Turing Machine Coding Puzzle Game","tags":["BrainFood"],"dg-note-properties":{"categories":["[[Products]]"],"created":"2026-09-24","description":"Race against the clock or other players as you crack millions of codes using an analog computer made up entirely of cardboard and paper.","URL":"https://www.uncommongoods.com/product/turing-machine-coding-puzzle-game","title":"Turing Machine Coding Puzzle Game","Image":"https://images.uncommongoods.com/images/items/59600/59696_1_1200px.jpg","Price":43,"currency":"USD","Notes":null,"tags":["BrainFood"]}}
 ---
 
 ## Turing Machine Coding Puzzle Game
