@@ -8,4 +8,5 @@
 > [!fyi] Electric Screwdriver Kit
 > **Price:** 53.95 EUR 
 > **Link:** [object Object]
+> [View in store](<https://hototools.com/products/3-6v-electric-screwdriver-kit>)
 
