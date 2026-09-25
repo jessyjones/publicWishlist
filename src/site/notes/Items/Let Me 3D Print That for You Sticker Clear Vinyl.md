@@ -12,5 +12,5 @@ This Laptop Decals item by MakerQueenAU has 17 favorites from Etsy shoppers. Shi
 > **Price:** 4 EUR 
 > **Link:**  [View in store](<https://www.etsy.com/listing/1186500906/let-me-3d-print-that-for-you-sticker?ref=shop_home_active_32&logging_key=edff2a9a6ee1c71bcec97ebd742f51b1a4b4af7d%3A1186500906>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 

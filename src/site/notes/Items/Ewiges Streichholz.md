@@ -12,5 +12,5 @@ Feuerzeug aus Feuereisen für mehrere tausend Zündungen. Metallpartikel verbren
 > **Price:** 8.9 EUR 
 > **Link:**  [View in store](<https://www.experimentis-shop.de/ewiges-streichholz-ferrocerium-feuerzeug-detail-747.html>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 

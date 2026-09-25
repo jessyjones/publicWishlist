@@ -12,5 +12,5 @@ Découvrez la magie de l'optique avec le Mirascope 3D, un spectacle d'hologramme
 > **Price:** 22.9 EUR 
 > **Link:**  [View in store](<https://science-labs.com/mirascope-3d-hologramme/>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 

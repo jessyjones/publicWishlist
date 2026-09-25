@@ -12,5 +12,5 @@ Mismatched gold stud earrings with RGB and CMYK color diagrams. A graphic design
 > **Price:** 21.95 EUR 
 > **Link:**  [View in store](<https://yellowowlworkshop.com/products/rbg-cmyk-earrings>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 

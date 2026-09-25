@@ -13,5 +13,5 @@ Station météo design en verre & bois. Prévisions météo visibles selon l'ét
 > **Price:** 29.9 EUR 
 > **Link:**  [View in store](<https://www.lesraffineurs.com/idees-cadeau-decoration-et-cocooning/4187-barometre-a-cristaux-personnalisable.html>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 

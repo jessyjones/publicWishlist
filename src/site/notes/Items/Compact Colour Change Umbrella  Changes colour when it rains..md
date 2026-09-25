@@ -12,6 +12,6 @@ The astonishingly compact version of SuckUk's most popular Umbrella. It still ch
 > **Price:** 48.99 EUR 
 > **Link:**  [View in store](<https://www.suck.uk.com/products/super-compact-colour-changing-umbrella/?search=umbrella>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 
 

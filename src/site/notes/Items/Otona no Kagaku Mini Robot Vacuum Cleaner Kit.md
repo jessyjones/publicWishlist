@@ -12,5 +12,5 @@ Otona no Kagaku Mini Robot Vacuum Cleaner Kit - It might not have been invented 
 > **Price:** 32 EUR 
 > **Link:**  [View in store](<https://www.japantrendshop.com/otona-no-kagaku-mini-robot-vacuum-cleaner-kit-p-7634.html>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 

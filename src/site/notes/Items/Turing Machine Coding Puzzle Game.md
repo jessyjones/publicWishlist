@@ -12,5 +12,5 @@ Race against the clock or other players as you crack millions of codes using an 
 > **Price:** 43 USD 
 > **Link:**  [View in store](<https://www.uncommongoods.com/product/turing-machine-coding-puzzle-game>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 

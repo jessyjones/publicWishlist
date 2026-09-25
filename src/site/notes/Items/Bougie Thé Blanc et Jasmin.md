@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Items/Bougie Thé Blanc et Jasmin/","title":"Bougie Thé Blanc et Jasmin","tags":["SelfCentered"],"dg-note-properties":{"categories":["[[Products]]"],"created":"2026-09-24","description":"Bougie Thé Blanc et Jasmin - Ellipse","URL":"https://www.majoliebougie.com/pots-en-verre/12317-bougie-the-blanc-et-jasmin-ellipse.html","title":"Bougie Thé Blanc et Jasmin","Image":"https://www.majoliebougie.com/45387-thickbox_default/bougie-the-blanc-et-jasmin-ellipse.jpg","Price":39.9,"currency":"EUR","Notes":null,"tags":["SelfCentered"]}}
+{"dg-publish":true,"permalink":"/Items/Bougie Thé Blanc et Jasmin/","title":"Bougie Thé Blanc et Jasmin","tags":["SelfCentering"],"dg-note-properties":{"categories":["[[Products]]"],"created":"2026-09-24","description":"Bougie Thé Blanc et Jasmin - Ellipse","URL":"https://www.majoliebougie.com/pots-en-verre/12317-bougie-the-blanc-et-jasmin-ellipse.html","title":"Bougie Thé Blanc et Jasmin","Image":"https://www.majoliebougie.com/45387-thickbox_default/bougie-the-blanc-et-jasmin-ellipse.jpg","Price":39.9,"currency":"EUR","Notes":null,"tags":["SelfCentering"]}}
 ---
 
 
@@ -13,5 +13,5 @@ Bougie Thé Blanc et Jasmin - Ellipse
 > **Price:** 39.9 EUR 
 > **Link:**  [View in store](<https://www.majoliebougie.com/pots-en-verre/12317-bougie-the-blanc-et-jasmin-ellipse.html>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 

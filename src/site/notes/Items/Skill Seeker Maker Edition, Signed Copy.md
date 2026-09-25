@@ -12,5 +12,5 @@ Looking for a powerful tool to help you upskill and improve? Try skill trees!  T
 > **Price:** 21.6 EUR 
 > **Link:**  [View in store](<https://www.makerqueen.com.au/shop/p/skill-seeker-maker-edition-signed-copy-a-workbook-to-track-and-level-up-your-maker-skills>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 

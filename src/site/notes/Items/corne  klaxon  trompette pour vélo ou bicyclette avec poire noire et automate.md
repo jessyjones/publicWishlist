@@ -12,5 +12,5 @@ Vente en ligne de Avertisseur sonore / corne / klaxon / trompette pour vélo ou 
 > **Price:** 8 EUR 
 > **Link:**  [View in store](<https://www.automates-boites-musique.com/objets-de-curiosite/objets-de-curiosite-divers/avertisseur-sonore---corne---klaxon---trompette-pour-velo-ou-bicyclette-avec-poire-noire-details-10812.html>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 

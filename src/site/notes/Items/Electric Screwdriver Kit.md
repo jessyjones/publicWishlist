@@ -13,6 +13,6 @@ Electric Cordless Screwdriver Set, 3.6V Portable Screwdriver Set USB-C, 3 Torque
 > **Price:** 53.95 EUR 
 > **Link:**  [View in store](<https://hototools.com/products/3-6v-electric-screwdriver-kit>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 
 

@@ -12,5 +12,5 @@ Offrez un abonnement au Monde en cadeau à la personne de votre choix pour qu’
 > **Price:** 45 EUR 
 > **Link:**  [View in store](<https://abo.lemonde.fr/offre-offrir>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 

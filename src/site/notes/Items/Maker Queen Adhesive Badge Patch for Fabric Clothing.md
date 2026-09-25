@@ -12,5 +12,5 @@ A Maker Queen peel and stick fabric badge, featuring a crown and tools in gold a
 > **Price:** 7.72 EUR 
 > **Link:**  [View in store](<https://www.makerqueen.com.au/shop/p/maker-queen-adhesive-badge-patch-for-fabric-clothing>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 

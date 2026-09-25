@@ -12,5 +12,5 @@ A beautiful soldering kit designed to look like an enamel pin, featuring a rare 
 > **Price:** 9.86 EUR 
 > **Link:**  [View in store](<https://www.makerqueen.com.au/shop/p/space-girl-soldering-kit>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 

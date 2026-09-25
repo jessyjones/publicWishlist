@@ -13,5 +13,5 @@ ABX00062 Arduino Cartes et kits de développement - AVR Arduino Uno Mini LE fich
 > **Price:** 45.28 EUR 
 > **Link:**  [View in store](<https://www.mouser.fr/fr/ProductDetail/Arduino/ABX00062?qs=A6eO%252BMLsxmQz4fHuPQSixQ%3D%3D>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 

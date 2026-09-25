@@ -12,5 +12,5 @@ Unlock the full Brilliant experience. Get full tutoring support, unlimited acces
 > **Price:** 165 EUR 
 > **Link:**  [View in store](<https://brilliant.org/gift-premium/>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 

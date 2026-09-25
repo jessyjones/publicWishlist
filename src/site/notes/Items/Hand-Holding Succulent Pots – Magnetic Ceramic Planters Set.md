@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Items/Hand-Holding Succulent Pots – Magnetic Ceramic Planters Set/","title":"Hand-Holding Succulent Pots – Magnetic Ceramic Planters Set","tags":["SelfCentered"],"dg-note-properties":{"categories":["[[Products]]"],"created":"2026-09-24","description":"These adorable ceramic succulent pots snap hands together when placed close! Perfect for small plants & succulents. A fun & unique gift for plant lovers.","URL":"https://pikkii.com/collections/gifts-for-her/products/hand-holding-cactus-succulent-pots","title":"Hand-Holding Succulent Pots – Magnetic Ceramic Planters Set","Image":"https://pikkii.com/cdn/shop/files/HandHoldingSucculentPotsbyPikkii12.jpg?v=1747299363&width=1280","Price":23.95,"currency":"EUR","Notes":null,"tags":["SelfCentered"]}}
+{"dg-publish":true,"permalink":"/Items/Hand-Holding Succulent Pots – Magnetic Ceramic Planters Set/","title":"Hand-Holding Succulent Pots – Magnetic Ceramic Planters Set","tags":["SelfCentering"],"dg-note-properties":{"categories":["[[Products]]"],"created":"2026-09-24","description":"These adorable ceramic succulent pots snap hands together when placed close! Perfect for small plants & succulents. A fun & unique gift for plant lovers.","URL":"https://pikkii.com/collections/gifts-for-her/products/hand-holding-cactus-succulent-pots","title":"Hand-Holding Succulent Pots – Magnetic Ceramic Planters Set","Image":"https://pikkii.com/cdn/shop/files/HandHoldingSucculentPotsbyPikkii12.jpg?v=1747299363&width=1280","Price":23.95,"currency":"EUR","Notes":null,"tags":["SelfCentering"]}}
 ---
 
 ## Hand-Holding Succulent Pots – Magnetic Ceramic Planters Set
@@ -12,5 +12,5 @@ These adorable ceramic succulent pots snap hands together when placed close! Per
 > **Price:** 23.95 EUR 
 > **Link:**  [View in store](<https://pikkii.com/collections/gifts-for-her/products/hand-holding-cactus-succulent-pots>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 

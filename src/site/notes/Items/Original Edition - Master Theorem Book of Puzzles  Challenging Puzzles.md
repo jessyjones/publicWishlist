@@ -12,5 +12,5 @@ Fans of escape rooms, codes, and riddles will love these books, which are full o
 > **Price:** 30 USD 
 > **Link:**  [View in store](<https://www.uncommongoods.com/product/master-theorem-book-of-puzzles/509330000000>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 

@@ -12,5 +12,5 @@ Le ferrofluide est un liquide magnétique avec des particules ferromagnétiques 
 > **Price:** 13.1 EUR 
 > **Link:**  [View in store](<https://www.supermagnete.fr/aimants-pour-l-ecole/ferrofluide-10-ml_M-FER-10>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 

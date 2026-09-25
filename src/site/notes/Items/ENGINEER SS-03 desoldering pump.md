@@ -12,5 +12,5 @@ The ENGINEER SS-03 desoldering pump is a high-power, compact suction device with
 > **Price:** 24.79 EUR 
 > **Link:**  [View in store](<https://eleshop.eu/engineer-ss-03-desoldering-pump.html>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 

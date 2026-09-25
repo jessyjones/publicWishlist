@@ -13,5 +13,5 @@ Livré chez vous ou point relais en 24/48 heures ! ✓ Offrez un cadeau original
 > **Price:** 8.9 EUR 
 > **Link:**  [View in store](<https://www.cadomaestro.com/boite-a-musique-love-story-9267.html>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 

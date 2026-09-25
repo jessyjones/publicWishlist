@@ -12,5 +12,5 @@ NoPoPo Eco Water-powered AA Batteries - This battery is as weird as it is totall
 > **Price:** 13 EUR 
 > **Link:**  [View in store](<https://www.japantrendshop.com/nopopo-eco-waterpowered-aa-batteries-p-546.html>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 

@@ -13,5 +13,5 @@ Découvrez la xTool O1 Omni Printer, la 1ère imprimante UV 4-en-1. Du rigide au
 > **Price:** 2399 eur 
 > **Link:**  [View in store](<https://fr.xtool.com/products/xtool-o1-omni-printer-imprimante-uv-4-en-1?variant=67367743291696>)
 
-> [!info] Notes 
->  `= this.notes` 
+> [!info] Extra 
+> **Notes** N/A 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Items/Teesh Kissing Girls/","title":"Teesh Kissing Girls","tags":["SelfCentered"],"dg-note-properties":{"categories":["[[Products]]"],"created":"2026-09-24","description":null,"URL":"https://pheros.shop/products/teesh-kissing-girls","title":"Teesh Kissing Girls","Image":"https://pheros.shop/cdn/shop/files/Sapphic-Kissing-Black-Epaule.webp?v=1779947527&width=1000","Price":39.95,"currency":"EUR","Notes":null,"tags":["SelfCentered"]}}
+{"dg-publish":true,"permalink":"/Items/Teesh Kissing Girls/","title":"Teesh Kissing Girls","tags":["SelfCentering"],"dg-note-properties":{"categories":["[[Products]]"],"created":"2026-09-24","description":null,"URL":"https://pheros.shop/products/teesh-kissing-girls","title":"Teesh Kissing Girls","Image":"https://pheros.shop/cdn/shop/files/Sapphic-Kissing-Black-Epaule.webp?v=1779947527&width=1000","Price":39.95,"currency":"EUR","Notes":null,"tags":["SelfCentering"]}}
 ---
 
 ## Teesh Kissing Girls
@@ -12,5 +12,5 @@
 > **Price:** 39.95 EUR 
 > **Link:**  [View in store](<https://pheros.shop/products/teesh-kissing-girls>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** N/A 
