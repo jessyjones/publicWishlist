@@ -15,4 +15,4 @@ The key here is versatility and Bruno's Milsto Utility Neck Pillow offers it in 
 > **Link:**  [View in store](<https://www.japantrendshop.com/milsto-utility-neck-pillow-p-10113.html>)
 
 > [!info] Notes 
->  `= this.Notes` 
+>  `= this.notes` 
