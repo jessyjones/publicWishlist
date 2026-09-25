@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Items/Sablier Liquide à Huile/","title":"Sablier Liquide à Huile","tags":["SelfCentering"],"dg-note-properties":{"categories":["[[Products]]"],"created":"2026-09-24","description":"🔬 Effet visuel apaisant : des bulles colorées qui s’écoulent lentement sans se mélanger.","URL":"https://www.objet-scientifique.fr/produit/sablier-liquide-a-huile/","title":"Sablier Liquide à Huile","image":"https://www.objet-scientifique.fr/wp-content/uploads/2024/12/Sablier-Liquide-a-Huile-1.jpeg","Price":15.9,"currency":"EUR","notes":"Version rose et bleue","tags":["SelfCentering"]}}
+{"dg-publish":true,"permalink":"/Items/Sablier Liquide à Huile/","title":"Sablier Liquide à Huile","tags":["SelfCentering"],"dg-note-properties":{"categories":["[[Products]]"],"created":"2026-09-24","description":"🔬 Effet visuel apaisant : des bulles colorées qui s’écoulent lentement sans se mélanger.","URL":"https://www.objet-scientifique.fr/produit/sablier-liquide-a-huile/","title":"Sablier Liquide à Huile","image":"attachments/sablier-liquide-a-huile-1-2026-09-25T01-22-12.jpeg","Price":15.9,"currency":"EUR","notes":"Version rose et bleue","tags":["SelfCentering"]}}
 ---
 
 ## Sablier Liquide à Huile
 
-![|640](https://www.objet-scientifique.fr/wp-content/uploads/2024/12/Sablier-Liquide-a-Huile-1.jpeg)
+![|640](/img/user/attachments/sablier-liquide-a-huile-1-2026-09-25T01-22-12.jpeg)
 
 🔬 Effet visuel apaisant : des bulles colorées qui s’écoulent lentement sans se mélanger.
 
