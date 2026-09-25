@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Ongoing wishlist/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/ongoing-wishlist/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 # 0 - 10
@@ -11,6 +11,7 @@ views:
       and:
         - "!URL.isEmpty()"
         - Price < 10
+        - note["dg-publish"] == true
     order:
       - file.name
       - Price
@@ -22,6 +23,7 @@ views:
     image: note.image
     cardSize: 220
     imageFit: contain
+
 ```
 
 # 10 - 20
@@ -34,6 +36,7 @@ views:
         - "!URL.isEmpty()"
         - Price >= 10
         - Price < 20
+        - note["dg-publish"] == true
     order:
       - file.name
       - Price
@@ -58,6 +61,7 @@ views:
         - "!URL.isEmpty()"
         - Price >= 20
         - Price < 50
+        - note["dg-publish"] == true
     order:
       - file.name
       - Price
@@ -82,6 +86,7 @@ views:
         - "!URL.isEmpty()"
         - Price >= 50
         - Price < 100
+        - note["dg-publish"] == true
     order:
       - file.name
       - Price
@@ -106,6 +111,7 @@ views:
       and:
         - "!URL.isEmpty()"
         - Price >= 100
+        - note["dg-publish"] == true
     order:
       - file.name
       - Price
