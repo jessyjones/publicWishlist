@@ -23,6 +23,16 @@ views:
     image: note.image
     cardSize: 220
     imageFit: contain
+  - type: table
+    name: Table view
+    order:
+      - file.name
+      - tags
+      - Price
+    sort:
+      - property: Price
+        direction: DESC
+    rowHeight: medium
 
 ```
 
