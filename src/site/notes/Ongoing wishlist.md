@@ -15,8 +15,6 @@ views:
     order:
       - file.name
       - Price
-      - notes
-      - tags
     sort:
       - property: Price
         direction: ASC
