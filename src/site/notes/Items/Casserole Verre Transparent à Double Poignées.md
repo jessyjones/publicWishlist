@@ -13,4 +13,4 @@
 > **Link:**  [View in store](<https://www.cuisamix.com/products/casserole-verre-transparent-double-poignees>)
 
 > [!info] Extra 
-> **Notes** `= this.notes` 
+> **Notes** N/A 

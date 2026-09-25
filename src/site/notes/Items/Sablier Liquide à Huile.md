@@ -13,4 +13,4 @@
 > **Link:**  [View in store](<https://www.objet-scientifique.fr/produit/sablier-liquide-a-huile/>)
 
 > [!info] Notes 
->  Version rose et bleue 
+> **Notes** Version rose et bleue 
