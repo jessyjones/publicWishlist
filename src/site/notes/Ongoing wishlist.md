@@ -14,12 +14,12 @@ views:
     order:
       - file.name
       - Price
-      - Notes
+      - notes
       - tags
     sort:
       - property: Price
         direction: ASC
-    image: note.Image
+    image: note.image
     cardSize: 220
     imageFit: contain
 ```
@@ -37,12 +37,12 @@ views:
     order:
       - file.name
       - Price
-      - Notes
+      - notes
       - tags
     sort:
       - property: Price
         direction: ASC
-    image: note.Image
+    image: note.image
     cardSize: 220
     imageFit: contain
 
@@ -61,12 +61,12 @@ views:
     order:
       - file.name
       - Price
-      - Notes
+      - notes
       - tags
     sort:
       - property: Price
         direction: ASC
-    image: note.Image
+    image: note.image
     cardSize: 220
     imageFit: contain
 
@@ -85,12 +85,12 @@ views:
     order:
       - file.name
       - Price
-      - Notes
+      - notes
       - tags
     sort:
       - property: Price
         direction: ASC
-    image: note.Image
+    image: note.image
     cardSize: 220
     imageFit: contain
 
@@ -109,12 +109,12 @@ views:
     order:
       - file.name
       - Price
-      - Notes
+      - notes
       - tags
     sort:
       - property: Price
         direction: ASC
-    image: note.Image
+    image: note.image
     cardSize: 220
     imageFit: contain
 
