@@ -12,5 +12,5 @@
 > **Price:** 34.9 EUR 
 > **Link:**  [View in store](<https://www.cuisamix.com/products/casserole-verre-transparent-double-poignees>)
 
-> [!info] Notes 
->  `= this.Notes` 
+> [!info] Extra 
+> **Notes** `= this.Notes` 
