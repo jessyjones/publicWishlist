@@ -1,6 +1,60 @@
 body {
-    --dg-content-max-width: 800px;
+    --dg-content-max-width: 1200px;
     --dg-content-font-size: 16px;
     --dg-sidebar-max-width: 400px;
 }
 
+/* ---------- Callouts ---------- */
+
+/* One color per callout type (Catppuccin palette, follows light/dark) */
+.callout[data-callout="tip"]      { --callout-color: var(--ctp-pink); }
+.callout[data-callout="abstract"] { --callout-color: var(--ctp-mauve); }
+.callout[data-callout="faq"]      { --callout-color: var(--ctp-peach); }
+.callout[data-callout="info"]     { --callout-color: var(--ctp-sapphire); }
+.callout[data-callout="success"]  { --callout-color: var(--ctp-green); }
+.callout[data-callout="example"]  { --callout-color: var(--ctp-lavender); }
+
+.callout {
+    border: 1px solid rgba(var(--callout-color), 0.35);
+    border-left: 5px solid rgb(var(--callout-color));
+    border-radius: 12px;
+    background-color: rgba(var(--callout-color), 0.08);
+    margin: 2em 0;
+}
+
+/* Hide the callout icon */
+.callout .callout-icon {
+    display: none;
+}
+
+/* Style callout titles like an H2 heading */
+.callout-title {
+    align-items: center;
+}
+
+.callout-title-inner {
+    font-family: var(--h2-font);
+    font-size: var(--h2-size);
+    font-weight: var(--h2-weight);
+    line-height: var(--h2-line-height);
+    letter-spacing: var(--h2-letter-spacing);
+    color: rgb(var(--callout-color));
+}
+
+/* Collapsible callouts ([!tip]+ / [!tip]-) */
+.callout.is-collapsible .callout-title {
+    cursor: pointer;
+    user-select: none;
+}
+
+.callout-fold {
+    margin-left: auto;
+    color: rgb(var(--callout-color));
+}
+
+/* ---------- Bases cards ---------- */
+
+.obsidian-base-card-image,
+.obsidian-base-card-image img {
+    background-color: #fff;
+}
