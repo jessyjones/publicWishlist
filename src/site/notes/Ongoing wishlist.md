@@ -13,7 +13,7 @@ J’y ai rassemblé des choses qui me feraient vraiment plaisir, classées par t
 
 Évidemment, aucune obligation : quelque soit l'occasion qui vous mène ici, votre présence me fait sûrement déjà très plaisir
 
-> [!tip] ## 💕 Petits coups de cœur : jusqu’à 10 €
+> [!tip]- 💕 Petits coups de cœur : jusqu’à 10 €
 > 
 > ```base
 > views:
@@ -36,7 +36,7 @@ J’y ai rassemblé des choses qui me feraient vraiment plaisir, classées par t
 > 
 > ```
 
-> [!abstract] ## 🥰 Pour le kiff : 10€ à 20€
+> [!abstract]- 🥰 Pour le kiff : 10€ à 20€
 > ```base
 > views:
 >   - type: cards
@@ -61,7 +61,7 @@ J’y ai rassemblé des choses qui me feraient vraiment plaisir, classées par t
 > 
 > ```
 
-> [!tip] ## ✨ Gros coups de cœur : 20€ à 50€
+> [!success]-  ✨ Gros coups de cœur : 20€ à 50€
 > ```base
 > views:
 >   - type: cards
@@ -87,7 +87,7 @@ J’y ai rassemblé des choses qui me feraient vraiment plaisir, classées par t
 > ```
 > 
 
-> [!abstract] ## 🎀 Grandes envies : 50€ à 100 €
+> [!example]-  🎀 Grandes envies : 50€ à 100 €
 > ```base
 > views:
 >   - type: cards
@@ -113,7 +113,7 @@ J’y ai rassemblé des choses qui me feraient vraiment plaisir, classées par t
 > ```
 > 
 
-> [!tip] ## 💎 Grosses folies : 100€ et plus
+> [!bug]- 💎 Grosses folies : 100€ et plus
 > ```base
 > views:
 >   - type: cards
@@ -138,6 +138,6 @@ J’y ai rassemblé des choses qui me feraient vraiment plaisir, classées par t
 > ```
 > 
 
-> [!faq]  ## Option joker
+> [!faq]- Option joker
 > 
 > Si vous avez trouvé un cadeau dans la liste qui me ferait vraiment plaisir mais qui est un peu trop cher pour une seule personne, vous pouvez aussi participer à la [cagnotte](https://www.onparticipe.fr/c/MUlKrYnJ) 🎁
