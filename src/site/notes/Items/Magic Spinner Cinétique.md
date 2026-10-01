@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/items/magic-spinner-cinetique/","title":"Magic Spinner Cinétique","tags":["SelfCentering"],"dg-note-properties":{"categories":["[[Products]]"],"created":"2026-09-24","description":"🔬 Technologie gyroscopique fascinante : une rotation qui défie la gravité.","URL":"https://www.objet-scientifique.fr/produit/magic-spinner-cinetique/","title":"Magic Spinner Cinétique","Image":"Items/attachments/magic-spinner-cinetique-2-2026-09-25T01-17-24.jpeg","Price":24.9,"currency":"EUR","notes":"Version gris-rose gold","tags":["SelfCentering"]}}
+{"dg-publish":true,"permalink":"/items/magic-spinner-cinetique/","title":"Magic Spinner Cinétique","tags":["SelfCentering"],"dg-note-properties":{"categories":["[[Products]]"],"created":"2026-09-24","description":"🔬 Technologie gyroscopique fascinante : une rotation qui défie la gravité.","URL":"https://www.objet-scientifique.fr/produit/magic-spinner-cinetique/","title":"Magic Spinner Cinétique","Image":"https://www.objet-scientifique.fr/wp-content/uploads/2024/12/Magic-Spinner-Cinetique-2.jpeg","Price":24.9,"currency":"EUR","notes":"Version gris-rose gold","tags":["SelfCentering"]}}
 ---
 
 ## Magic Spinner Cinétique
 
-![|640](/img/user/Items/attachments/magic-spinner-cinetique-2-2026-09-25T01-17-24.jpeg)
+![|640](https://www.objet-scientifique.fr/wp-content/uploads/2024/12/Magic-Spinner-Cinetique-2.jpeg)
 
 🔬 Technologie gyroscopique fascinante : une rotation qui défie la gravité.
 
