@@ -140,4 +140,4 @@ J’y ai rassemblé des choses qui me feraient vraiment plaisir, classées par t
 
 > [!faq]- Option joker
 > 
-> Si vous avez trouvé un cadeau dans la liste qui me ferait vraiment plaisir mais qui est un peu trop cher pour une seule personne, vous pouvez aussi participer à la [cagnotte](https://www.onparticipe.fr/c/MUlKrYnJ) 🎁
+> Si vous avez trouvé un cadeau dans la liste qui vous parle mais qui est trop cher pour une seule personne, vous pouvez aussi participer à la [cagnotte](https://www.onparticipe.fr/c/MUlKrYnJ) 🎁
