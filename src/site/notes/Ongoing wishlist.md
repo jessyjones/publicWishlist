@@ -2,7 +2,14 @@
 {"dg-publish":true,"permalink":"/ongoing-wishlist/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-# 0 - 10
+
+# Bienvenue sur ma petite wishlist 🎁
+
+Comme on ne sait pas toujours quoi m’offrir (et que j’ai parfois des idées assez arrêtées sur ce que j’aime… et surtout sur ce que je n’aime pas 😅), j’ai créé cette petite wishlist pour vous donner quelques pistes !
+
+J’y ai rassemblé des choses qui me feraient vraiment plaisir, classées par tranche de prix pour que chacun puisse trouver facilement quelque chose qui lui correspond. Évidemment, aucune obligation : quelque soit l'occasion qui vous mène ici, votre présence me fait sûrement déjà très plaisir
+
+## 💕 Petits coups de cœur : jusqu’à 10 €
 ```base
 views:
   - type: cards
@@ -24,7 +31,7 @@ views:
 
 ```
 
-# 10 - 20
+## 🥰 Pour le kiff : 10€ à 20€
 ```base
 views:
   - type: cards
@@ -49,7 +56,7 @@ views:
 
 ```
 
-# 20 - 50
+## ✨ Gros coups de cœur : 20€ à 50€
 ```base
 views:
   - type: cards
@@ -74,7 +81,7 @@ views:
 
 ```
 
-# 50 - 100
+## 🎀 Grandes envies : 50€ à 100 €
 ```base
 views:
   - type: cards
@@ -100,7 +107,7 @@ views:
 ```
 
 
-# 100+
+## 💎 Jolies folies : 100€ et plus
 ```base
 views:
   - type: cards
@@ -124,3 +131,7 @@ views:
 
 ```
 
+
+## Option joker
+
+Si vous avez trouvé un cadeau dans la liste qui me ferait vraiment plaisir mais qui est un peu trop cher pour une seule personne, vous pouvez aussi participer à la [cagnotte](https://www.onparticipe.fr/c/MUlKrYnJ) 🎁
