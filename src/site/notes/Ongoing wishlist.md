@@ -13,7 +13,7 @@ J’y ai rassemblé des choses qui me feraient vraiment plaisir, classées par t
 
 Évidemment, aucune obligation : quelque soit l'occasion qui vous mène ici, votre présence me fait sûrement déjà très plaisir
 
-> [!tip]- 💕 Petits coups de cœur : jusqu’à 10 €
+> [!abstract]- 💕 Petits coups de cœur : jusqu’à 10 €
 > 
 > ```base
 > views:
@@ -37,7 +37,7 @@ J’y ai rassemblé des choses qui me feraient vraiment plaisir, classées par t
 > 
 > ```
 
-> [!abstract]- 🥰 Pour le kiff : 10€ à 20€
+> [!success]- 🥰 Pour le kiff : 10€ à 20€
 > ```base
 > views:
 >   - type: cards
@@ -61,7 +61,7 @@ J’y ai rassemblé des choses qui me feraient vraiment plaisir, classées par t
 > 
 > ```
 
-> [!success]-  ✨ Gros coups de cœur : 20€ à 50€
+> [!tip]-  ✨ Gros coups de cœur : 20€ à 50€
 > ```base
 > views:
 >   - type: cards
