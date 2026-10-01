@@ -27,6 +27,7 @@ J’y ai rassemblé des choses qui me feraient vraiment plaisir, classées par t
 >     order:
 >       - file.name
 >       - Price
+>       - tags
 >     sort:
 >       - property: Price
 >         direction: ASC
@@ -50,7 +51,6 @@ J’y ai rassemblé des choses qui me feraient vraiment plaisir, classées par t
 >     order:
 >       - file.name
 >       - Price
->       - notes
 >       - tags
 >     sort:
 >       - property: Price
