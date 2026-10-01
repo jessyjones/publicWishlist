@@ -4,3 +4,35 @@ body {
     --dg-sidebar-max-width: 400px;
 }
 
+
+/* Breathing room around the Bases render inside callouts */
+.callout .callout-content {
+    padding: 0.5em 1em 1em;
+}
+
+/* Tags field on Bases cards (always the last field): render as a tag pill.
+   Hide the "Tags:" label and the ": " separator by zeroing the font size
+   on the field and restoring it on the value. */
+.obsidian-base-card-field:last-child {
+    font-size: 0;
+    margin-top: 0.4em;
+}
+
+.obsidian-base-card-field:last-child .obsidian-base-card-label {
+    display: none;
+}
+
+.obsidian-base-card-field:last-child .obsidian-base-card-value {
+    display: inline-block;
+    font-size: var(--font-smaller, 0.85rem);
+    background-color: var(--tag-background);
+    color: var(--tag-color);
+    border: var(--tag-border-width, 0) solid var(--tag-border-color, transparent);
+    border-radius: var(--tag-radius, 2em);
+    padding: 0.2em 0.65em;
+    line-height: 1.4;
+}
+
+.obsidian-base-card-field:last-child .obsidian-base-card-value::before {
+    content: "#";
+}
